@@ -40,7 +40,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/cominmag.ch\/"
+                         "value":"https:\/\/lemeilleurde.ch\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -58,7 +58,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"marketing21-cominmag"
+                         "value":"digitalstreet-lmd"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -81,7 +81,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/cominmag.ch\/contact-publicite\/contact\/"
+                         "value":"https:\/\/lemeilleurde.ch"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -109,7 +109,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/livestreamingproductions.ch\/"
+                         "value":"https:\/\/idayit.com"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -127,7 +127,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"marketing21-lsp"
+                         "value":"digitalstreet-idayit"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -150,7 +150,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/livestreamingproductions.ch\/#cta"
+                         "value":"https:\/\/idayit.com"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -178,7 +178,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.breew.com\/"
+                         "value":"https:\/\/cominmag.ch"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -196,7 +196,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"marketing21-breew"
+                         "value":"digitalstreet-cominmag"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -219,7 +219,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.breew.com\/contactez-nous\/"
+                         "value":"https:\/\/cominmag.ch\/contact-publicite\/contact\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -247,7 +247,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/training.idayit.com\/"
+                         "value":"https:\/\/perform.ch"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -265,7 +265,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"marketing21-idayit"
+                         "value":"digitalstreet-perform"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -288,7 +288,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/booknow.idayit.com\/portal-embed#\/customer\/onlineservices"
+                         "value":"https:\/\/perform.ch"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -316,7 +316,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.sawi.com\/romandie\/"
+                         "value":""
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -334,7 +334,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"zFinance21-marketing21-sawi"
+                         "value":"digitalstreet-topright"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -357,7 +357,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.sawi.com\/romandie\/contact"
+                         "value":""
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -385,7 +385,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.watson.ch\/commercialisation"
+                         "value":""
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -403,7 +403,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"marketing21-watson"
+                         "value":"digitalstreet-topleft"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -426,7 +426,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.watson.ch\/commercialisation\/642076848-team-kontakt"
+                         "value":""
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -457,7 +457,7 @@
                          "value":true
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -475,7 +475,7 @@
                          "value":""
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -493,7 +493,7 @@
                          "value":""
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -521,7 +521,7 @@
                          "value":true
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -539,7 +539,7 @@
                          "value":""
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -557,7 +557,7 @@
                          "value":""
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
