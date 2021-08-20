@@ -166,7 +166,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"OpenWebsite",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/s.idayit.com\/live"
                         }],
