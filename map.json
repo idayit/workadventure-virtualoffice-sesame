@@ -33,6 +33,12 @@
          "id":104,
          "name":"exitLive",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
